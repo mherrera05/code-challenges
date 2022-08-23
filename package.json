@@ -1,0 +1,22 @@
+{
+  "name": "code-challenges",
+  "version": "1.0.0",
+  "description": "repository to solve code challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mherrera05/code-challenges.git"
+  },
+  "keywords": [
+    "code-challenges"
+  ],
+  "author": "Miguel Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mherrera05/code-challenges/issues"
+  },
+  "homepage": "https://github.com/mherrera05/code-challenges#readme"
+}
